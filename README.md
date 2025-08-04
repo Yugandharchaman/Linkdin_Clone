@@ -1,8 +1,3 @@
-Here’s a **proficient and clean** `README.md` you can put in your root folder (`C:\Users\91965\OneDrive\Desktop\Linkdin_clone\README.md`) before pushing:
-
----
-
-```markdown
 # 🚀 MiniLinkedIn - MERN Stack Social Networking App
 
 A professional **LinkedIn-like** social networking platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
@@ -113,13 +108,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
 
-| Feed Page                                    | Profile Page                                    |
-| -------------------------------------------- | ----------------------------------------------- |
-| ![Feed](https://via.placeholder.com/400x250) | ![Profile](https://via.placeholder.com/400x250) |
-
----
 
 ## 🤝 Contributing
 
@@ -131,21 +120,5 @@ Contributions are welcome! Please open a pull request with a clear description o
 
 This project is licensed under the **MIT License**.
 
----
 
-**Author:** [Your Name](https://github.com/your-username)
-💼 *Building scalable and modern web applications with MERN Stack*
 
-```
-
----
-
-If you want, I can **personalize** this `README` for **you**,  
-with:
-- Your **name**
-- A short **about**
-- Your **LinkedIn/GitHub links**  
-so it looks professional when pushed to GitHub.  
-
-Do you want me to do that now?
-```
